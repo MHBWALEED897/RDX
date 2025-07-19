@@ -612,14 +612,23 @@ def line():
 # Logo
 logo = f"""
 \033[0;92m╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗
-8888888b.  8888888b. Y88b   d88P 
-888   Y88b 888  "Y88b Y88b d88P  
-888    888 888    888  Y88o88P   
-888   d88P 888    888   Y888P    
-8888888P"  888    888   d888b    
-888 T88b   888    888  d88888b   
-888  T88b  888  .d88P d88P Y88b  
-888   T88b 8888888P" d88P   Y88b 
+__| |______________________________________________________________________| |__
+__   ______________________________________________________________________   __
+  | |                                                                      | |  
+  | |____              ___  _     ____     __________ __________ ________  | |  
+  | |`Mb(      db      )d' dM.    `MM'     `MMMMMMMMM `MMMMMMMMM `MMMMMMMb.| |  
+  | | YM.     ,PM.     ,P ,MMb     MM       MM      \  MM      \  MM    `Mb| |  
+  | | `Mb     d'Mb     d' d'YM.    MM       MM         MM         MM     MM| |  
+  | |  YM.   ,P YM.   ,P ,P `Mb    MM       MM    ,    MM    ,    MM     MM| |  
+  | |  `Mb   d' `Mb   d' d'  YM.   MM       MMMMMMM    MMMMMMM    MM     MM| |  
+  | |   YM. ,P   YM. ,P ,P   `Mb   MM       MM    `    MM    `    MM     MM| |  
+  | |   `Mb d'   `Mb d' d'    YM.  MM       MM         MM         MM     MM| |  
+  | |    YM,P     YM,P ,MMMMMMMMb  MM       MM         MM         MM     MM| |  
+  | |    `MM'     `MM' d'      YM. MM    /  MM      /  MM      /  MM    .M9| |  
+  | |     YP       YP_dM_     _dMM_MMMMMMM _MMMMMMMMM _MMMMMMMMM _MMMMMMM9'| |  
+__| |______________________________________________________________________| |__
+__   ______________________________________________________________________   __
+  | |                                                                      | |  
                          
 \033[0;92m╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝               
 """
@@ -640,14 +649,23 @@ os.system('espeak -a 300 "well,come to,WALLED, tools"')
 logo = f"""
 \033[0;92m
 
-8888888b.  8888888b. Y88b   d88P 
-888   Y88b 888  "Y88b Y88b d88P  
-888    888 888    888  Y88o88P   
-888   d88P 888    888   Y888P    
-8888888P"  888    888   d888b    
-888 T88b   888    888  d88888b   
-888  T88b  888  .d88P d88P Y88b  
-888   T88b 8888888P" d88P   Y88b 
+__| |______________________________________________________________________| |__
+__   ______________________________________________________________________   __
+  | |                                                                      | |  
+  | |____              ___  _     ____     __________ __________ ________  | |  
+  | |`Mb(      db      )d' dM.    `MM'     `MMMMMMMMM `MMMMMMMMM `MMMMMMMb.| |  
+  | | YM.     ,PM.     ,P ,MMb     MM       MM      \  MM      \  MM    `Mb| |  
+  | | `Mb     d'Mb     d' d'YM.    MM       MM         MM         MM     MM| |  
+  | |  YM.   ,P YM.   ,P ,P `Mb    MM       MM    ,    MM    ,    MM     MM| |  
+  | |  `Mb   d' `Mb   d' d'  YM.   MM       MMMMMMM    MMMMMMM    MM     MM| |  
+  | |   YM. ,P   YM. ,P ,P   `Mb   MM       MM    `    MM    `    MM     MM| |  
+  | |   `Mb d'   `Mb d' d'    YM.  MM       MM         MM         MM     MM| |  
+  | |    YM,P     YM,P ,MMMMMMMMb  MM       MM         MM         MM     MM| |  
+  | |    `MM'     `MM' d'      YM. MM    /  MM      /  MM      /  MM    .M9| |  
+  | |     YP       YP_dM_     _dMM_MMMMMMM _MMMMMMMMM _MMMMMMMMM _MMMMMMM9'| |  
+__| |______________________________________________________________________| |__
+__   ______________________________________________________________________   __
+  | |                                                                      | |  
                          
 \033[0;92m               \033[0;92m
 
